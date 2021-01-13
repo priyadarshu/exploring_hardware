@@ -2,8 +2,9 @@
 
 [DRAW.IO File](https://drive.google.com/file/d/16rSuNgQGl53VjYZoa4zoD5F3s_nQDCHQ/view?usp=sharing)
 
-I explored my broken MI Note 2 phone 
-Though I'm a noob to this, I found something interesting - 
+I explored my broken MI Note 2 phone
+
+Though I'm a noob to this, I found something interesting - Proximity Sensor, how front and rear camera looks, audio jack, transmitters and recievers
 
 ## Proximity sensor
 - A proximity sensor is a sensor able to detect the presence of nearby objects without any physical contact.
@@ -17,3 +18,16 @@ Though I'm a noob to this, I found something interesting -
  - the mobile phone receiver/transmitter is built within or externally connected to the mobile phone and includes a power supply unit, an incoming call detector, a coder/decoder, a spread spectrum function module, a radio frequency circuit, a memory, a main controller and an off-hook/on-hook circuit.
  
  
+ ## Some of the images
+ 
+ ![](1.jpg)
+ 
+ # 
+ 
+ ![](2.jpg)
+ 
+ # 
+ 
+  ![](5.jpg)
+  
+  
